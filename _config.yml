@@ -23,10 +23,10 @@ description: TODO - add thoughts
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "about"
+  About: "about"
   Resources:
-    - Wordpress blog: "http://www.kaneshenton.wordpress.com/"
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Science policy blog: "http://www.kaneshenton.wordpress.com/"
+    - Old travel blog: "https://walkabout-thelongwayhome.blogspot.com/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://jkshenton.github.io"
