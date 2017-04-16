@@ -32,6 +32,7 @@ navbar-links:
   Conquest:
     - Conquest home: "http://www.order-n.org/"
     - Conquest notes: "conquest-notes"
+  Buildings: atomistic_playground
   # Author's home: "http://jkshenton.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
